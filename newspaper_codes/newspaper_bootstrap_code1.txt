@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Newspaper</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css">
+ <style>
+     </style>
+     </head>
+     <body>
+         <div class="container">
+             <header>
+                 <h1>NEWS DAILY WEEKLY</h1>
+                 <nav class="navbar navbar-expand-lg navbar-dark bg-primary "style="height:50px";>
+                  <div class="navbar-nav">
+                      <div class="row" style="width:250px;">
+                    <div class="col-6">
+                        <a class="nav-link active" href="index.html"><h4>SPORTS</h4></a>
+                    </div>
+                    <div class="col-6">
+                        <a class="nav-link" href="in.html"><h4>BUSINESS</h4></a>
+                    </div>
+                    </div>
+                  </div>
+                </nav>
+                <div class="row">
+                    <div class="col-5 col-sm-6 col-md-7 col-lg-9 col-xl-9">Get the week's stories and documentaries in your inbox every Sunday</div>
+                </div>
+                <hr>
+                <div class="row">
+                    <div class="col-12 col-sm-12 col-md-12 col-lg-12 col-xl-12"><div>INTERNATIONAL EDITION</div>
+                    </div>
+                </div>
+                <hr>
+             </header>
+             <div class="container body">
+                 <h2>From bribery ban to Ballon d'Or:<br>
+                     Paolo Rossi's highs and lows</h2>
+             </div>
+             <section class="TOP SPORTS">
+                 <h4 style="padding-left:15px"></h4>
+                 <div class="container">
+                     <div class="row">
+                         <div class="col-12 col-sm-12 col-md-7 col-lg-7 col-xl-7">
+                             <span class="top"><b>TOP SPORTS</b></span>
+                             <div class="section1 heading">
+                                 <p>ROME: Football is mourning the death of Paolo Rossi, the prolific striker whose goals<br>
+                                     led the Azzurri to World Cup glory in 1982. Here are the stand-out moments from the<br>
+                                      career of one of Italy's greatest players, who has died at the age of 64:<br>
+                                      Rossi made his debut with Juventus in 1973 but the early years of his career were<br>
+                                       compromised by injury, needing three operations on his knees. He was farmed out to <br>
+                                       Como, where he made his Serie A debut, and then loaned to Serie B side Vicenza for <br>
+                                       the 1976-77 season, moving from the right wing to centre-forward. It proved a <br>momentous
+                                        switch. Rossi was Serie B's top scorer that year, firing Vicenza to <br>promotion, and he
+                                         led the Serie A scoring charts the following season, earning a call-up to Enzo Bearzot's 
+                                         Italy squad for the 1978 World Cup in Argentina. Rossi shone in the <br>tournament, scoring 
+                                         three goals as the Italians finished fourth. </p>
+                             </div>
+                         </div>
+                         <div class="col-12 col-sm-12 col-md-5 col-lg-5col-xl-5 order-first order-md-last order-lg-last order-xl-last insta_img_parent_ext_el">
+                             <img src="download.jpg" alt="rossi img" width="430" height="280"></div>
+                             <div class="insta_img_icon_wrap_ext_el" title="" style="top: 35px; left: 50px;"><div class="insta_img_icon_ext_el"></div></div></div>
+                         </div>
+                         <div class="row">
+                            <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                                <div class="row">                            
+                                    <div class="col-12 col-sm-12 order-md-first order-lg-first order-xl-first">
+                                        <img src="page1.jpg" width="250">
+                                        </div>
+                                        <div class="col-12 col-sm-12 order-first order-sm-first"><br>
+                                            <h4>ICC Rankings: Virat Kohli, Rohit Sharma end 2020 as top two ODI batsmen</h4>                                
+                                        </div>
+                                        <div class="col-12 col-sm-12">
+                                            <div class="container section2content">
+                                                <p>Virat Kohli will end the year as the top-ranked ODI batsman
+                                                     after retaining the spot in the latest ICC rankings.
+                                                      The Indian skipper is followed by his compatriot Rohit Sharma, 
+                                                      who continues to occupy the second spot, despite not featuring in
+                                                     the recently-concluded 3-match ODI series against Australia.</p>
+                                       </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                                 <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                                    <div class="row">                            
+                                        <div class="col-12 col-sm-12 order-md-first order-lg-first order-xl-first">
+                                            <img src="p2.jpg" width="260" height="210" >
+                                   </div> 
+                                   <div class="col-12 col-sm-12 order-first order-sm-first">
+                                    <h4>Sydney provides stage for dress rehearsal ahead of India-Australia D/N Test</h4>                                
+                                </div>                                
+                    
+                                   <div class="col-12 col-sm-12">
+                                    <div class="container section3">                            
+                                        <p>The three-day tour game in Sydney, starting on Friday,
+                                             is a dress rehearsal for the first Test to be played
+                                              in Adelaide from December 17. The day-night game in
+                                              Sydney will allow the players to get a feel of conditions
+                                               during India’s first-ever overseas day-night Test.</p>
+                                   </div>        
+                                 </div>
+                              </div>
+                            </div>
+                            <div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+                                <div class="row">                            
+                                    <div class="col-12 col-sm-12 order-md-first order-lg-first order-xl-first">
+                                        <span class="top"></span> 
+                                        <img src="p3.jpg" alt="img" class="img-fluid" height="250" data-insta_upload_ext_elem="1">
+                                    </div>
+                                    <div class="col-12 col-sm-12 order-first order-sm-first">
+                                        <h4>Belgium top year-end FIFA rankings for third straight time</h4>                                
+                                    </div>
+                                    <div class="col-12 col-sm-12">
+                                        <div class="container section4content">                            
+                                            <p>Belgium were crowned FIFA’s team of the year for the third straight time after retaining the top spot ahead of world champions France in the latest world rankings released on Thursday, soccer’s world governing body said.</p>
+                                         </div>
+                                 </div>
+                                 </div>
+                                 </div>
+                               </div>
+                          </div>
+                  </section>
+                  <footer>
+                    <div class="row">
+                        <div class="col-5 col-sm-6 col-md-7 col-lg-9 col-xl-9"><b>10 December 2020, International</b></div>
+                        <div class="col-7 col-sm-6 col-md-5 col-lg-3 col-xl-3"><b>sportsnews@gmail.com</b></div>                
+                    </div>
+                  </footer>
+         </div>
+         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+     </body>
+     </html>
